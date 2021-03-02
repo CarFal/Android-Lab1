@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab1_MAP524_DPS924_CarlosFalconett</string>
+    <string name="app_heading">Lab1(5%)</string>
+    <string name="app_title">Lab 1</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="university_1">Humber</string>
+    <string name="university_2">Ryerson</string>
+    <string name="university_3">York</string>
+    <string name="university_4">Seneca</string>
+</resources>
